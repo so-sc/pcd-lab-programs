@@ -1,1 +1,1 @@
-find the roots of quadratic equation using ifelse
+develop program to compute the roote of a quadratic equation by accepting the co-efficent.print appropriate message
