@@ -6,6 +6,7 @@ curated list of lab programs for VTU - Programming with C and Data Structures
 Fork this Repo and Clone it to your local machine.
 ```sh
 $ git clone https://github.com/YOUR_USERNAME/pcd-lab-programs.git
+$ cd pcd-lab-programs
 ```
 ### Step 2
 Create a new branch with your name and program number.  
