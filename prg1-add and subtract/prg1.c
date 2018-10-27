@@ -1,9 +1,11 @@
 #include<stdio.h>
 void main()
 {
-float a,b,z;
+float a,b,z,x;
 printf("enter two numbers \n");
 scanf("%f%f",&a,&b);
 z=a+b;
-printf("result=%f",z);
+x=a-b;
+printf("add result=%f",z);
+printf("sub result=%f",x};
 }
